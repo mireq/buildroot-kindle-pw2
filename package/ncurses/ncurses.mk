@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-NCURSES_VERSION = 6.1
+NCURSES_VERSION = 5.6
 NCURSES_SITE = $(BR2_GNU_MIRROR)/ncurses
 NCURSES_INSTALL_STAGING = YES
 NCURSES_DEPENDENCIES = host-ncurses
